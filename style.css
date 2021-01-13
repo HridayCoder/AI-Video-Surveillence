@@ -1,0 +1,20 @@
+body
+{
+background-size: cover;
+}
+.heading
+{
+font-size: 30px; width: 100%; box-shadow: 5px 5px 10px white;margin-top: 0;
+}
+#start
+{
+font-size: 20px;
+}
+canvas
+{
+border: 5px solid gray;margin-top: 80px;border-radius: 5px;
+}
+.footer
+{
+width: 100%;background-color: blue; color: white;bottom: 0;text-align: center;font-weight: bold;position: fixed;
+}
